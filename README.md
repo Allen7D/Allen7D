@@ -1,6 +1,6 @@
 # 我的主页  ![](http://www.ivinetrue.com/)🌟
 
-- 💼 工作: Python+Vue全栈
+- 💼 工作: Python|Node.js+Vue｜React全栈
 - 📚 语言:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
