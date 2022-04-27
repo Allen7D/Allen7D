@@ -9,8 +9,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=plastic&logo=vue.js)
   ![Flask](https://img.shields.io/badge/-Flask-3e4349?style=plastic&logo=Flask)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![DjangoRestfulFramework](https://img.shields.io/badge/Django%20REST%20framework-latest-red)
+
 
 [![Allen7D's github stats](https://github-readme-stats.vercel.app/api?username=Allen7D&show_icons=true)](https://github.com/Allen7D)
-
 
